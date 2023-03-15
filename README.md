@@ -3,6 +3,11 @@
 This package enables the display of a Material Date Picker and offers additional functionality, including the ability to exclude specific dates.
 
 ## Usage
+
+<p align="center">
+  <img width="460"  src="https://raw.githubusercontent.com/radikz/calendar_picker/master/screenshots/ss1.jpg">
+</p>
+
 ```dart
 MaterialButton(
   color: Colors.blue,
